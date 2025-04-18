@@ -44,7 +44,7 @@ public class StudentPage extends AppCompatActivity {
 
         //getting Bus arival time
         getBusArrivalTime();
-        
+
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
