@@ -26,7 +26,7 @@
 ## Demo Video
 
 A demo video showcasing the features of the VBOB app is included in the `screenshots_and_video/2025-04-18 22-44-09.mkv` folder of this project.
-[Download Demo Video](https://github.com/divyanshujeekota/VBOB_Final/blob/main/screenshots_and_video/2025-04-18%2022-44-09.mkv)
+[Download The Demo Video](https://github.com/divyanshujeekota/VBOB_Final/blob/main/screenshots_and_video/2025-04-18%2022-44-09.mkv)
 
 ---
 
