@@ -41,32 +41,32 @@ With this, students can show the first-hour professor that their bus came late t
 ## Screenshots
 
 ### Starting Screen
-<img src="screenshots_and_video/Screenshot_20250418_223331.png" alt="Starting Screen" width="500" height="300">
+<img src="screenshots_and_video/Screenshot_20250418_223331.png" alt="Starting Screen" width="500" height="900">
 
 ---
 
 ### Driver SignUp Screen
-<img src="screenshots_and_video/Screenshot_20250418_223739.png" alt="Driver SignUp" width="500" height="300">
+<img src="screenshots_and_video/Screenshot_20250418_223739.png" alt="Driver SignUp" width="500" height="800">
 
 ---
 
 ### Driver Login
-<img src="screenshots_and_video/Screenshot_20250418_223804.png" alt="Driver Login" width="500" height="300">
+<img src="screenshots_and_video/Screenshot_20250418_223804.png" alt="Driver Login" width="500" height="700">
 
 ---
 
 ### Student Login
-<img src="screenshots_and_video/Screenshot_20250418_224718.png" alt="Student Login" width="500" height="300">
+<img src="screenshots_and_video/Screenshot_20250418_224718.png" alt="Student Login" width="500" height="600">
 
 ---
 
 ### Student Page
-<img src="screenshots_and_video/Screenshot_20250418_224730.png" alt="Student Page" width="500" height="300">
+<img src="screenshots_and_video/Screenshot_20250418_224730.png" alt="Student Page" width="500" height="500">
 
 ---
 
 ### Database Structure
-<img src="screenshots_and_video/database.jpg" alt="Database" width="500" height="300">
+<img src="screenshots_and_video/database.jpg" alt="Database" width="500" height="400">
 
 ---
 
