@@ -1,4 +1,4 @@
-# VBOB - Vehicle Bus On-Board
+# VBOB - VIT Bus On-Board
 
 **VBOB** is an Android application designed for school/college bus tracking. It provides real-time tracking for buses, allowing students to monitor their bus locations and for drivers to manage their routes effectively. The app is integrated with Firebase for user authentication, location tracking, and storing real-time data.
 
