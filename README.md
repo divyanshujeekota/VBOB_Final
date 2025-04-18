@@ -26,6 +26,7 @@
 ## Demo Video
 
 A demo video showcasing the features of the VBOB app is included in the `screenshots_and_video/2025-04-18 22-44-09.mkv` folder of this project.
+[Link](https://github.com/divyanshujeekota/VBOB_Final/blob/main/screenshots_and_video/2025-04-18%2022-44-09.mkv)
 
 ---
 
@@ -40,32 +41,32 @@ With this, students can show the first-hour professor that their bus came late t
 ## Screenshots
 
 ### Starting Screen
-![Starting Screen](screenshots_and_video/Screenshot_20250418_223331.png)
+<img src="screenshots_and_video/Screenshot_20250418_223331.png" alt="Starting Screen" width="500" height="300">
 
 ---
 
 ### Driver SignUp Screen
-![Driver SignUp](screenshots_and_video/Screenshot_20250418_223739.png)
+<img src="screenshots_and_video/Screenshot_20250418_223739.png" alt="Driver SignUp" width="500" height="300">
 
 ---
 
 ### Driver Login
-![Driver Login](screenshots_and_video/Screenshot_20250418_223804.png)
+<img src="screenshots_and_video/Screenshot_20250418_223804.png" alt="Driver Login" width="500" height="300">
 
 ---
 
 ### Student Login
-![Student Login](screenshots_and_video/Screenshot_20250418_224718.png)
+<img src="screenshots_and_video/Screenshot_20250418_224718.png" alt="Student Login" width="500" height="300">
 
 ---
 
 ### Student Page
-![Student Page](screenshots_and_video/Screenshot_20250418_224730.png)
+<img src="screenshots_and_video/Screenshot_20250418_224730.png" alt="Student Page" width="500" height="300">
 
 ---
 
 ### Database Structure
-![Database](screenshots_and_video/database.jpg)
+<img src="screenshots_and_video/database.jpg" alt="Database" width="500" height="300">
 
 ---
 
