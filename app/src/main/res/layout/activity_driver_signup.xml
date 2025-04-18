@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".DriverSignupActivity">
+    
+    <androidx.cardview.widget.CardView
+        android:layout_width="350dp"
+        android:layout_height="620dp"
+        app:cardCornerRadius="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        >
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/studentloginicon"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30dp"
+                />
+
+            <EditText
+                android:id="@+id/regno_input"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="300dp"
+                android:ems="10"
+                android:hint="Reg. No."
+                android:inputType="text"
+                android:textColor="#B3A956"
+                android:textColorHint="#B3A956"
+                android:textStyle="italic" />
+
+            <EditText
+                android:id="@+id/name_input"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="350dp"
+                android:ems="10"
+                android:hint="Name"
+                android:inputType="text"
+                android:textColor="#B3A956"
+                android:textColorHint="#B3A956"
+                android:textStyle="italic" />
+
+            <EditText
+                android:id="@+id/bus_input"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="400dp"
+                android:ems="10"
+                android:hint="Bus Number"
+                android:inputType="text"
+                android:textColor="#B3A956"
+                android:textColorHint="#B3A956"
+                android:textStyle="italic" />
+
+            <EditText
+                android:id="@+id/password_input"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="450dp"
+                android:ems="10"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:textColor="#B3A956"
+                android:textColorHint="#B3A956"
+                android:textStyle="italic" />
+
+            <Button
+                android:id="@+id/signup_button_signuppage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="560dp"
+                android:layout_weight="1"
+                android:backgroundTint="#D5C954"
+                android:onClick="signupmessage"
+                android:text="Sign Up"
+                android:textStyle="bold|italic" />
+            
+            
+            
+        </RelativeLayout>
+        
+        
+        
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

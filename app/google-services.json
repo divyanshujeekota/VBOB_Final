@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442326798883",
+    "project_id": "vboboriginal",
+    "storage_bucket": "vboboriginal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442326798883:android:700b929de6bd88980dd796",
+        "android_client_info": {
+          "package_name": "com.example.vbob_original"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3QfQlmgF4cyHloTi8bImbXg7gvWolrEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
